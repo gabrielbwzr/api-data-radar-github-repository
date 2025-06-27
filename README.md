@@ -40,5 +40,5 @@ Data-Source-API-Analyst-Test/
 ## How to run?
 
 1. Open `Content/api_requests.ipynb` in Google Colab.
-2. Replace `PUT_YOUR_TOKEN` with your personal access token.
+2. Once you run the first code enter your personal access token in the space required.
 3. Run all cells to fetch repository info, commits, and contents.
